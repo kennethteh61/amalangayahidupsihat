@@ -1,0 +1,15 @@
+
+<html>
+<head>
+<title> Cara-Cara Mengamalkan Gaya Hidup Sihat </title>
+</head>
+<body>
+<p> Cara-Cara Mengamalkan Gaya Hidup Sihat </p>
+<p> Amalan gaya hidup sihat adalah satu amalan yang meningkatkan tahap kualiti kesihatan </p>
+<p> Cara mengamalkan amalan gaya hidup sihat adalah seperti berikut : </p>
+<p> 1. Pemakanan Seimbang </p>
+<p> 2. Melakukan aktiviti senaman </p>
+<p> 3. Pemeriksaan doctor yang berkala
+<p> 4. Memerlukan rehat yang mencukupi </p>
+</body>
+</html>
